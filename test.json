@@ -1,5 +1,5 @@
 [
-  { " id : "1" , "name" : "Ant"},
-  { " id : "2" , "name" : "bird"},
-  { " id : "3" , "name" : "cat"},
+  { "id" : "1" , "name" : "Ant" },
+  { "id" : "2" , "name" : "Bird" },
+  { "id" : "3" , "name" : "Cat" }
 ]
